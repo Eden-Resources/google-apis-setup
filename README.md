@@ -33,4 +33,4 @@
 3. Share the document to the service account's adress and give it editor perms
 
 ## Google Vision 
-1. [Enable billing for your project](https://cloud.google.com/billing/docs/how-to/modify-project?visit_id=637510599696575187-2745866112&rd=1#enable-billing).
+1. Enable billing for your project [here](https://cloud.google.com/billing/docs/how-to/modify-project?visit_id=637510599696575187-2745866112&rd=1#enable-billing).
