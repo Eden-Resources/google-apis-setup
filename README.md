@@ -7,7 +7,7 @@
 6. Click on `Credentials` on the left menu bar
 7. Click `+CREATE CREDENTIALS`
 8. Select `Service account`
-9. Fill in the details (does not matter) and press `CREATE`
+9. Fill in the details (does not matter) and press `CREATE AND CONTINUE`
 10. Chose the role by hovering over the drop down > Basic > Owner
 11. Press `Continue`
 12. Press `Done`
