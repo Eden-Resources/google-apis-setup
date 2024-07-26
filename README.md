@@ -1,7 +1,7 @@
 # How to set up google APIs
 1. Go to [google developers console](https://console.developers.google.com/)
 2. Create a new project
-3. Press `+ENABLE APIA AND SERVICES`
+3. Press `+ENABLE APIS AND SERVICES`
 4. Search for the API(s) that you want to enable and enable them
 5. Go to back to the project page
 6. Click on `Credentials` on the left menu bar
@@ -25,12 +25,9 @@
 ### Getting the SHEET ID
 1. Go to your google sheet document in your browser
 2. The URL should look something like this: `https://docs.google.com/spreadsheets/d/<DOC-ID>`
-3. Copy the ID in the URL and paste it in the `config.json`
+3. Copy the ID in the URL and paste it in the `.env`, after `SHEETS_ID=`
 
 ### Sharing the document to the service account
 1. Return to your google sheet document
 2. Press `Share`
 3. Share the document to the service account's adress and give it editor perms
-
-## Google Vision 
-1. Enable billing for your project [here](https://cloud.google.com/billing/docs/how-to/modify-project?visit_id=637510599696575187-2745866112&rd=1#enable-billing).
